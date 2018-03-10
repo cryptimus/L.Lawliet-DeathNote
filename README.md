@@ -1,2 +1,3 @@
-# L.-Lawliet-death-note-
+# L.Lawliet-DeathNote
+
 A tribute page to L. Lawliet
